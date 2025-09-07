@@ -12,3 +12,20 @@ Technical Description:  Langgraph (for organizing the chatbot main interaction),
 CANVA slides:
 
 https://www.canva.com/design/DAGyQMSKc_M/kKW5sgnpWa9PAAGTpeGKcg/edit?utm_content=DAGyQMSKc_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Screenshots:
+
+Summary and Sentiment of ALGORAND news:
+
+<img width="1125" height="703" alt="image" src="https://github.com/user-attachments/assets/b01c09ed-7295-4a69-8087-8a0ae6dd1610" />
+
+Time Series Forecasting and Trend over the next 7 days:
+
+<img width="1478" height="831" alt="image" src="https://github.com/user-attachments/assets/0104b035-9a73-47a7-8f3f-9ab50122a980" />
+
+Smart Contract generation based on price and trend:
+
+<img width="1755" height="1096" alt="image" src="https://github.com/user-attachments/assets/863dbdfa-c4e5-44df-bada-455fbec213c9" />
+
+
+
